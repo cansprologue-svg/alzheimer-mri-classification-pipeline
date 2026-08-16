@@ -1,0 +1,24 @@
+# Datasets (auto-downloaded on run)
+dataset/
+Alzheimer_MRI_4_classes_dataset/
+
+# Model weights / checkpoints
+*.keras
+*.h5
+best_weights.keras
+
+# Generated outputs
+*_output.png
+custom_prediction.png
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
+.DS_Store
